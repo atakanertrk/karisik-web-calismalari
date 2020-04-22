@@ -1,0 +1,59 @@
+html,body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+
+.HomeBackground{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("resources/background.jpeg");
+    position: fixed;
+    top:0;
+    left:0;
+}
+
+
+.mytext{
+    position: fixed;
+    opacity: 0.8;
+    color:wheat;
+    text-align: center;
+    bottom:15vh;
+    left:27vw;
+    right:23vw;
+}
+
+
+.myfooter{
+    position: fixed;
+    text-align: center;
+    bottom:0;
+    background-color: black;
+    color:green;
+    width: 100%;
+    height: auto;
+    font-size: larger;
+}
+
+.bg-dark{
+    background-color: black!important;
+}
+.navbar-brand{
+    font-size:1.8rem;
+    margin-right:5rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 2rem;
+}
+.navbar{
+    margin-top:3rem;
+}
+
