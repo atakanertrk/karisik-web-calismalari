@@ -1,0 +1,58 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    background-image: url("resources/brown.jpg");
+    background-color: dimgray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    overflow-y: hidden;
+    font-size: 3vh;
+}
+
+.name-text{
+    color:rgb(94, 68, 59);
+    font-size: 5vh;
+    text-align: center;
+    margin-top: 10vh;
+    font-weight: bold;
+    text-shadow:0 0 9px white;
+
+}
+
+.bg-light{
+    opacity: 0.4;
+    background-color: burlywood!important;
+}
+.navbar{
+    margin-top:2rem;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+
+.icon-config{
+    padding-bottom:6px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+
+.context{
+    text-align: center;
+    margin-top:3vh;
+}
+.content-block{
+    text-align: center;
+    display: inline-block;
+    border:2px solid rgb(151, 112, 12);
+    width:44vw;
+    height: 50vh;
+    margin:2vw;
+    background-color:rgb(114, 76, 5,0.3);
+    color:wheat;
+}
