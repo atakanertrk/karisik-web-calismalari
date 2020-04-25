@@ -6,3 +6,4 @@ Hazır birkaç css template ve siteler
 * http://grid.malven.co/ 
 * https://tobiasahlin.com/moving-letters
 * https://www.codesdope.com/blog/article/12-creative-css-and-javascript-text-typing-animati/
+* javascript/DOM events https://developer.mozilla.org/en-US/docs/Web/Events
