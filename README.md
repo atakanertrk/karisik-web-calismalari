@@ -1,6 +1,6 @@
-# Karışık Web Çalışmaları
+
 Hazır birkaç css template ve siteler
-## Faydalı Siteler
+# Faydalı Siteler
 # CSS
 * http://www.mashup-template.com/ 
 * https://css-tricks.com/ 
