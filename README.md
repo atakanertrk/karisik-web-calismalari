@@ -7,6 +7,8 @@
 * https://www.codesdope.com/blog/article/12-creative-css-and-javascript-text-typing-animati/
 # JS
 * https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+#### How JavaScript Works
+* https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 #### DOM events
 * https://developer.mozilla.org/en-US/docs/Web/Events
 #### Modules
