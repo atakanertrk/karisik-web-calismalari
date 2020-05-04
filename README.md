@@ -20,4 +20,6 @@
 #### .net core ile alakalı güzel bir anlatım
 * https://www.linkedin.com/pulse/aspnet-core-nedir-ne-gibi-de%C4%9Fi%C5%9Fiklikler-bizi-bekliyor-burak-tungut/
 ### APİ
-* mockable.io CREATE API EASY
+* mockable.io CREATE API EASY ONLINE
+* https://www.youtube.com/watch?v=aWePkE2ReGw  Call An API in C#
+
