@@ -6,6 +6,7 @@
 * https://tobiasahlin.com/moving-letters
 * https://www.codesdope.com/blog/article/12-creative-css-and-javascript-text-typing-animati/
 # JS
+* Features https://github.com/daumann/ECMAScript-new-features-list
 * https://javascript.info/
 #### How JavaScript Works
 * https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
