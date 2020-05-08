@@ -11,6 +11,8 @@
 * https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 #### DOM events
 * https://developer.mozilla.org/en-US/docs/Web/Events
+#### Asynchronous - Promises
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
 #### Modules
 * https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde
 * https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
