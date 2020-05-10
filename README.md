@@ -25,6 +25,7 @@
 ### APİ
 * mockable.io CREATE API EASY ONLINE
 * https://www.youtube.com/watch?v=aWePkE2ReGw  Call An API in C#
+* https://stripe.com/docs/api
 ### React
 * https://github.com/atakanertrk/reactjs-basic-template
 
