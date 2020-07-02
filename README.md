@@ -6,6 +6,9 @@
 * https://tobiasahlin.com/moving-letters
 * https://www.codesdope.com/blog/article/12-creative-css-and-javascript-text-typing-animati/
 # JS
+* Electron.js, react native (mobile&desktop)
+https://stackoverflow.com/questions/39609819/difference-between-react-native-and-electron
+* stateofjs.com
 * Features https://github.com/daumann/ECMAScript-new-features-list
 * https://javascript.info/
 #### How JavaScript Works
